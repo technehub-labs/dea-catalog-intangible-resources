@@ -1,9 +1,32 @@
-abbreviation: ITR
-description: Reference catalog for Intangible Resource entities. Bootstrapped from
-  dea-metaframework/tools/catalog-repo-template/.
+# Metamodel Pointer — Intangible Resource
+#
+# Two consumers, two blocks (see FOUNDATIONS §5):
+#   - the top-level identity keys are consumed by the vendored
+#     regenerate_catalog.py to build CATALOG.yaml's catalog block;
+#   - the `metamodel:` allocation block is validated by
+#     dea-architecture-framework validate-against-model.yml
+#     against the pinned root-model ref (v0.8.0), and asserted
+#     locally by scripts/check_pointer.py.
+#
+# Allocation changes go through the root model, not this file.
 id: dea:catalog-intangible-resources
-metamodel_version: 1.0.0
 name: Intangible Resource
-owner: TechNeHub Labs
-status: active
+abbreviation: INR
 version: 0.1.0
+status: active
+metamodel_version: 1.0.0
+owner: TechNeHub Labs
+description: |
+  Legally protected non-physical economic value (patents, trademarks, brand equity, licenses). Catalog instances include a specific trademark registration or license.
+metamodel:
+  building_block: L3-resources
+  class_alias: INR
+  entity_id: dea:entity-intangible-resource
+  layer: L3
+  version: v0.8.0
+  viewer_url: https://technehub-labs.github.io/metamodel/?entity=INR
+links:
+  metamodel_repo: https://github.com/technehub-labs/dea-metamodel
+  root_model: https://github.com/technehub-labs/dea-architecture-framework
+  viewer: https://technehub-labs.github.io/metamodel/?entity=INR
+  github: https://github.com/technehub-labs/dea-catalog-intangible-resources
