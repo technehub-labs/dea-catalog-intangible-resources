@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this catalog, please cite it using the metadata from this file."
+type: dataset
+title: "Intangible Resource"
+id: "dea:catalog-intangible-resources"
+authors:
+  - name: "TechNeHub Labs"
+repository-code: "https://github.com/technehub-labs/dea-catalog-intangible-resources"
+license: Apache-2.0

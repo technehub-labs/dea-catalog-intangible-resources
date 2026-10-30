@@ -1,0 +1,9 @@
+abbreviation: ITR
+description: Reference catalog for Intangible Resource entities. Bootstrapped from
+  dea-metaframework/tools/catalog-repo-template/.
+id: dea:catalog-intangible-resources
+metamodel_version: 1.0.0
+name: Intangible Resource
+owner: TechNeHub Labs
+status: active
+version: 0.1.0
