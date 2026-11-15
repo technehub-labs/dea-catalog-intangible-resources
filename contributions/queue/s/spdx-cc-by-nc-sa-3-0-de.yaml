@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX CC-BY-NC-SA-3.0-DE
+name: Creative Commons Attribution Non Commercial Share Alike 3.0 Germany (CC-BY-NC-SA-3.0-DE)
+description: 'Creative Commons Attribution Non Commercial Share Alike 3.0 Germany — an open-source/copyright
+  license registered in the SPDX License List (license id CC-BY-NC-SA-3.0-DE). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/CC-BY-NC-SA-3.0-DE.html (SPDX License List; id CC-BY-NC-SA-3.0-DE;
+      name Creative Commons Attribution Non Commercial Share Alike 3.0 Germany)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-cc-by-nc-sa-3-0-de

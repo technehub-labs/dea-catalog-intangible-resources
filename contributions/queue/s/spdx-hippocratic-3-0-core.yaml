@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX Hippocratic-3.0-core
+name: Hippocratic License 3.0 (Hippocratic-3.0-core)
+description: 'Hippocratic License 3.0 — an open-source/copyright license registered in the SPDX License
+  List (license id Hippocratic-3.0-core). A published intangible asset: the license text and metadata
+  are maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/Hippocratic-3.0-core.html (SPDX License List; id Hippocratic-3.0-core;
+      name Hippocratic License 3.0)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-hippocratic-3-0-core

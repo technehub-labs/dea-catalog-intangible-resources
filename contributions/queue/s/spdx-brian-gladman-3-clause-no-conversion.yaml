@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX Brian-Gladman-3-Clause-no-conversion
+name: Brian Gladman 3-Clause License (no conversion clause) (Brian-Gladman-3-Clause-no-conversion)
+description: 'Brian Gladman 3-Clause License (no conversion clause) — an open-source/copyright license
+  registered in the SPDX License List (license id Brian-Gladman-3-Clause-no-conversion). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/Brian-Gladman-3-Clause-no-conversion.html (SPDX License List;
+      id Brian-Gladman-3-Clause-no-conversion; name Brian Gladman 3-Clause License (no conversion clause))
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-brian-gladman-3-clause-no-conversion
