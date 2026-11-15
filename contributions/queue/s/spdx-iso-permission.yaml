@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX ISO-permission
+name: ISO permission notice (ISO-permission)
+description: 'ISO permission notice — an open-source/copyright license registered in the SPDX License
+  List (license id ISO-permission). A published intangible asset: the license text and metadata are maintained
+  at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/ISO-permission.html (SPDX License List; id ISO-permission; name
+      ISO permission notice)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-iso-permission

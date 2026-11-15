@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX HPND-sell-variant
+name: Historical Permission Notice and Disclaimer - sell variant (HPND-sell-variant)
+description: 'Historical Permission Notice and Disclaimer - sell variant — an open-source/copyright license
+  registered in the SPDX License List (license id HPND-sell-variant). A published intangible asset: the
+  license text and metadata are maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/HPND-sell-variant.html (SPDX License List; id HPND-sell-variant;
+      name Historical Permission Notice and Disclaimer - sell variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-hpnd-sell-variant

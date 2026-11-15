@@ -1,0 +1,18 @@
+# Ingestion manifest — IntangibleResource candidate corpus (CR-INR-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-16'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 740
+sources:
+- bank: spdx-osi-licenses.json
+  source: "SPDX License List + OSI approved licenses (published license registries)"
+  url: "https://raw.githubusercontent.com/spdx/license-list-data/main/json/licenses.json"
+  published: "https://spdx.org/licenses/ + https://opensource.org/licenses/"
+  retrieved: '2026-11-16'
+  sha256: 17482dc69b0ef24efeef0670249609f9b00eb96d908e93b0bd2c3d4dd77c1315
+  records: 740
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)

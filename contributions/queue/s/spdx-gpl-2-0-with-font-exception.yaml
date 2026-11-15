@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX GPL-2.0-with-font-exception
+name: GNU General Public License v2.0 w/Font exception (GPL-2.0-with-font-exception)
+description: 'GNU General Public License v2.0 w/Font exception — an open-source/copyright license registered
+  in the SPDX License List (license id GPL-2.0-with-font-exception). A published intangible asset: the
+  license text and metadata are maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/GPL-2.0-with-font-exception.html (SPDX License List; id GPL-2.0-with-font-exception;
+      name GNU General Public License v2.0 w/Font exception)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-gpl-2-0-with-font-exception

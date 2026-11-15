@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX QPL-1.0-INRIA-2004
+name: Q Public License 1.0 - INRIA 2004 variant (QPL-1.0-INRIA-2004)
+description: 'Q Public License 1.0 - INRIA 2004 variant — an open-source/copyright license registered
+  in the SPDX License List (license id QPL-1.0-INRIA-2004). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/QPL-1.0-INRIA-2004.html (SPDX License List; id QPL-1.0-INRIA-2004;
+      name Q Public License 1.0 - INRIA 2004 variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-qpl-1-0-inria-2004

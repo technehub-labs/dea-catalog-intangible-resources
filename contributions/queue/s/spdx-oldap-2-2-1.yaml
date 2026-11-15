@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-16'
+source_bank: spdx-osi-licenses.json
+source_ref: SPDX OLDAP-2.2.1
+name: Open LDAP Public License v2.2.1 (OLDAP-2.2.1)
+description: 'Open LDAP Public License v2.2.1 — an open-source/copyright license registered in the SPDX
+  License List (license id OLDAP-2.2.1). A published intangible asset: the license text and metadata are
+  maintained at the cited SPDX page.'
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/OLDAP-2.2.1.html (SPDX License List; id OLDAP-2.2.1; name Open
+      LDAP Public License v2.2.1)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
+    protection_type=license matches the entity enum directly.
+tags:
+- spdx
+- license
+slug: spdx-oldap-2-2-1
