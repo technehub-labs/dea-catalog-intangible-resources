@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX MIT-Festival
 name: MIT Festival Variant (MIT-Festival)
-description: 'MIT Festival Variant — an open-source/copyright license registered in the SPDX License List
-  (license id MIT-Festival). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'MIT Festival Variant — an open-source/copyright license registered in
+  the SPDX License List (license id MIT-Festival). A published intangible asset: the
+  license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/MIT-Festival.html (SPDX License List; id MIT-Festival; name MIT
-      Festival Variant)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/MIT-Festival.html (SPDX License List; id
+      MIT-Festival; name MIT Festival Variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-mit-festival
+assigned_id: dea:intangible-resource-spdx-mit-festival-kcv7r6
+admitted: '2026-11-15'

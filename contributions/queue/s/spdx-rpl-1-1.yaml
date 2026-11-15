@@ -1,22 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX RPL-1.1
 name: Reciprocal Public License 1.1 (RPL-1.1)
-description: 'Reciprocal Public License 1.1 — an open-source/copyright license registered in the SPDX
-  License List (license id RPL-1.1; OSI-approved). A published intangible asset: the license text and
-  metadata are maintained at the cited SPDX page.'
+description: 'Reciprocal Public License 1.1 — an open-source/copyright license registered
+  in the SPDX License List (license id RPL-1.1; OSI-approved). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/RPL-1.1.html (SPDX License List; id RPL-1.1; name Reciprocal
-      Public License 1.1)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/RPL-1.1.html (SPDX License List; id RPL-1.1;
+      name Reciprocal Public License 1.1)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-rpl-1-1
+assigned_id: dea:intangible-resource-spdx-rpl-1-1-r9wwf3
+admitted: '2026-11-15'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX IPA
 name: IPA Font License (IPA)
-description: 'IPA Font License — an open-source/copyright license registered in the SPDX License List
-  (license id IPA; OSI-approved). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'IPA Font License — an open-source/copyright license registered in the
+  SPDX License List (license id IPA; OSI-approved). A published intangible asset:
+  the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/IPA.html (SPDX License List; id IPA; name IPA Font License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/IPA.html (SPDX License List; id IPA; name
+      IPA Font License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-ipa
+assigned_id: dea:intangible-resource-spdx-ipa-xp9tpf
+admitted: '2026-11-15'

@@ -1,0 +1,36 @@
+id: dea:intangible-resource-spdx-cc-by-nc-sa-2-0-8bmtxs
+type: IntangibleResource
+name: Creative Commons Attribution Non Commercial Share Alike 2.0 Generic (CC-BY-NC-SA-2.0)
+description: 'Creative Commons Attribution Non Commercial Share Alike 2.0 Generic
+  — an open-source/copyright license registered in the SPDX License List (license
+  id CC-BY-NC-SA-2.0). A published intangible asset: the license text and metadata
+  are maintained at the cited SPDX page.'
+version: 0.1.0
+lifecycle_status: proposed
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/CC-BY-NC-SA-2.0.html (SPDX License List;
+      id CC-BY-NC-SA-2.0; name Creative Commons Attribution Non Commercial Share Alike
+      2.0 Generic)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- spdx
+- license

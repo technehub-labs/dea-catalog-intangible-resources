@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX Abstyles
 name: Abstyles License (Abstyles)
-description: 'Abstyles License — an open-source/copyright license registered in the SPDX License List
-  (license id Abstyles). A published intangible asset: the license text and metadata are maintained at
-  the cited SPDX page.'
+description: 'Abstyles License — an open-source/copyright license registered in the
+  SPDX License List (license id Abstyles). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/Abstyles.html (SPDX License List; id Abstyles; name Abstyles
-      License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/Abstyles.html (SPDX License List; id Abstyles;
+      name Abstyles License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-abstyles
+assigned_id: dea:intangible-resource-spdx-abstyles-a35m7z
+admitted: '2026-11-15'

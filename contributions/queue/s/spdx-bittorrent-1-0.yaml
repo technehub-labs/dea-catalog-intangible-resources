@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX BitTorrent-1.0
 name: BitTorrent Open Source License v1.0 (BitTorrent-1.0)
-description: 'BitTorrent Open Source License v1.0 — an open-source/copyright license registered in the
-  SPDX License List (license id BitTorrent-1.0). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'BitTorrent Open Source License v1.0 — an open-source/copyright license
+  registered in the SPDX License List (license id BitTorrent-1.0). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/BitTorrent-1.0.html (SPDX License List; id BitTorrent-1.0; name
-      BitTorrent Open Source License v1.0)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/BitTorrent-1.0.html (SPDX License List; id
+      BitTorrent-1.0; name BitTorrent Open Source License v1.0)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-bittorrent-1-0
+assigned_id: dea:intangible-resource-spdx-bittorrent-1-0-99tgrf
+admitted: '2026-11-15'

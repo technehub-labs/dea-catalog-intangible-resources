@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX Mackerras-3-Clause-acknowledgment
 name: Mackerras 3-Clause - acknowledgment variant (Mackerras-3-Clause-acknowledgment)
-description: 'Mackerras 3-Clause - acknowledgment variant — an open-source/copyright license registered
-  in the SPDX License List (license id Mackerras-3-Clause-acknowledgment). A published intangible asset:
-  the license text and metadata are maintained at the cited SPDX page.'
+description: 'Mackerras 3-Clause - acknowledgment variant — an open-source/copyright
+  license registered in the SPDX License List (license id Mackerras-3-Clause-acknowledgment).
+  A published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/Mackerras-3-Clause-acknowledgment.html (SPDX License List; id
-      Mackerras-3-Clause-acknowledgment; name Mackerras 3-Clause - acknowledgment variant)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/Mackerras-3-Clause-acknowledgment.html (SPDX
+      License List; id Mackerras-3-Clause-acknowledgment; name Mackerras 3-Clause
+      - acknowledgment variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-mackerras-3-clause-acknowledgment
+assigned_id: dea:intangible-resource-spdx-mackerras-3-clause-acknowledgment-mgkux9
+admitted: '2026-11-15'

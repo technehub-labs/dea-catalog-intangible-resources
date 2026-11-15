@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX CC-BY-NC-SA-3.0
 name: Creative Commons Attribution Non Commercial Share Alike 3.0 Unported (CC-BY-NC-SA-3.0)
-description: 'Creative Commons Attribution Non Commercial Share Alike 3.0 Unported — an open-source/copyright
-  license registered in the SPDX License List (license id CC-BY-NC-SA-3.0). A published intangible asset:
-  the license text and metadata are maintained at the cited SPDX page.'
+description: 'Creative Commons Attribution Non Commercial Share Alike 3.0 Unported
+  — an open-source/copyright license registered in the SPDX License List (license
+  id CC-BY-NC-SA-3.0). A published intangible asset: the license text and metadata
+  are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/CC-BY-NC-SA-3.0.html (SPDX License List; id CC-BY-NC-SA-3.0;
-      name Creative Commons Attribution Non Commercial Share Alike 3.0 Unported)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/CC-BY-NC-SA-3.0.html (SPDX License List;
+      id CC-BY-NC-SA-3.0; name Creative Commons Attribution Non Commercial Share Alike
+      3.0 Unported)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-cc-by-nc-sa-3-0
+assigned_id: dea:intangible-resource-spdx-cc-by-nc-sa-3-0-t8kdja
+admitted: '2026-11-15'

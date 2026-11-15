@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX LZMA-SDK-9.11-to-9.20
 name: LZMA SDK License (versions 9.11 to 9.20) (LZMA-SDK-9.11-to-9.20)
-description: 'LZMA SDK License (versions 9.11 to 9.20) — an open-source/copyright license registered in
-  the SPDX License List (license id LZMA-SDK-9.11-to-9.20). A published intangible asset: the license
-  text and metadata are maintained at the cited SPDX page.'
+description: 'LZMA SDK License (versions 9.11 to 9.20) — an open-source/copyright
+  license registered in the SPDX License List (license id LZMA-SDK-9.11-to-9.20).
+  A published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/LZMA-SDK-9.11-to-9.20.html (SPDX License List; id LZMA-SDK-9.11-to-9.20;
-      name LZMA SDK License (versions 9.11 to 9.20))
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/LZMA-SDK-9.11-to-9.20.html (SPDX License
+      List; id LZMA-SDK-9.11-to-9.20; name LZMA SDK License (versions 9.11 to 9.20))
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-lzma-sdk-9-11-to-9-20
+assigned_id: dea:intangible-resource-spdx-lzma-sdk-9-11-to-9-20-4fukke
+admitted: '2026-11-15'

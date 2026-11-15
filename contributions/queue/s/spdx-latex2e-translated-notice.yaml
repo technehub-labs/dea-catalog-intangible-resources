@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX Latex2e-translated-notice
 name: Latex2e with translated notice permission (Latex2e-translated-notice)
-description: 'Latex2e with translated notice permission — an open-source/copyright license registered
-  in the SPDX License List (license id Latex2e-translated-notice). A published intangible asset: the license
-  text and metadata are maintained at the cited SPDX page.'
+description: 'Latex2e with translated notice permission — an open-source/copyright
+  license registered in the SPDX License List (license id Latex2e-translated-notice).
+  A published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/Latex2e-translated-notice.html (SPDX License List; id Latex2e-translated-notice;
-      name Latex2e with translated notice permission)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/Latex2e-translated-notice.html (SPDX License
+      List; id Latex2e-translated-notice; name Latex2e with translated notice permission)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-latex2e-translated-notice
+assigned_id: dea:intangible-resource-spdx-latex2e-translated-notice-k4zxq5
+admitted: '2026-11-15'

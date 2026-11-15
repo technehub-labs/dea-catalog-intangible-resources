@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX FSFULLRSD
 name: FSF Unlimited License (with License Retention and Short Disclaimer) (FSFULLRSD)
-description: 'FSF Unlimited License (with License Retention and Short Disclaimer) — an open-source/copyright
-  license registered in the SPDX License List (license id FSFULLRSD). A published intangible asset: the
-  license text and metadata are maintained at the cited SPDX page.'
+description: 'FSF Unlimited License (with License Retention and Short Disclaimer)
+  — an open-source/copyright license registered in the SPDX License List (license
+  id FSFULLRSD). A published intangible asset: the license text and metadata are maintained
+  at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/FSFULLRSD.html (SPDX License List; id FSFULLRSD; name FSF Unlimited
-      License (with License Retention and Short Disclaimer))
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/FSFULLRSD.html (SPDX License List; id FSFULLRSD;
+      name FSF Unlimited License (with License Retention and Short Disclaimer))
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-fsfullrsd
+assigned_id: dea:intangible-resource-spdx-fsfullrsd-f9ujvd
+admitted: '2026-11-15'

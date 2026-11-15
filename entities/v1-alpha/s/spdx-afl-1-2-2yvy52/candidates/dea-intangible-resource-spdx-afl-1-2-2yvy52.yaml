@@ -1,0 +1,35 @@
+id: dea:intangible-resource-spdx-afl-1-2-2yvy52
+type: IntangibleResource
+name: Academic Free License v1.2 (AFL-1.2)
+description: 'Academic Free License v1.2 — an open-source/copyright license registered
+  in the SPDX License List (license id AFL-1.2; OSI-approved). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
+version: 0.1.0
+lifecycle_status: proposed
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/AFL-1.2.html (SPDX License List; id AFL-1.2;
+      name Academic Free License v1.2)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- spdx
+- license
+- osi-approved

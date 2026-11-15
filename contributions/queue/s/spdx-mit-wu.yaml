@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX MIT-Wu
 name: MIT Tom Wu Variant (MIT-Wu)
-description: 'MIT Tom Wu Variant — an open-source/copyright license registered in the SPDX License List
-  (license id MIT-Wu). A published intangible asset: the license text and metadata are maintained at the
-  cited SPDX page.'
+description: 'MIT Tom Wu Variant — an open-source/copyright license registered in
+  the SPDX License List (license id MIT-Wu). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/MIT-Wu.html (SPDX License List; id MIT-Wu; name MIT Tom Wu Variant)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/MIT-Wu.html (SPDX License List; id MIT-Wu;
+      name MIT Tom Wu Variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-mit-wu
+assigned_id: dea:intangible-resource-spdx-mit-wu-utence
+admitted: '2026-11-15'

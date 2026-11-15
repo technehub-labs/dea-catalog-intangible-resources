@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX OGC-1.0
 name: OGC Software License, Version 1.0 (OGC-1.0)
-description: 'OGC Software License, Version 1.0 — an open-source/copyright license registered in the SPDX
-  License List (license id OGC-1.0). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'OGC Software License, Version 1.0 — an open-source/copyright license
+  registered in the SPDX License List (license id OGC-1.0). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/OGC-1.0.html (SPDX License List; id OGC-1.0; name OGC Software
-      License, Version 1.0)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/OGC-1.0.html (SPDX License List; id OGC-1.0;
+      name OGC Software License, Version 1.0)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-ogc-1-0
+assigned_id: dea:intangible-resource-spdx-ogc-1-0-gpa9bk
+admitted: '2026-11-15'

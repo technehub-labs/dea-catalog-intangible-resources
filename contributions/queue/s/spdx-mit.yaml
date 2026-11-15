@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX MIT
 name: MIT License (MIT)
-description: 'MIT License — an open-source/copyright license registered in the SPDX License List (license
-  id MIT; OSI-approved). A published intangible asset: the license text and metadata are maintained at
-  the cited SPDX page.'
+description: 'MIT License — an open-source/copyright license registered in the SPDX
+  License List (license id MIT; OSI-approved). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/MIT.html (SPDX License List; id MIT; name MIT License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/MIT.html (SPDX License List; id MIT; name
+      MIT License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-mit
+assigned_id: dea:intangible-resource-spdx-mit-etcypc
+admitted: '2026-11-15'

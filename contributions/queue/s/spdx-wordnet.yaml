@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX WordNet
 name: WordNet License (WordNet)
-description: 'WordNet License — an open-source/copyright license registered in the SPDX License List (license
-  id WordNet; OSI-approved). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'WordNet License — an open-source/copyright license registered in the
+  SPDX License List (license id WordNet; OSI-approved). A published intangible asset:
+  the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/WordNet.html (SPDX License List; id WordNet; name WordNet License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/WordNet.html (SPDX License List; id WordNet;
+      name WordNet License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-wordnet
+assigned_id: dea:intangible-resource-spdx-wordnet-aytegy
+admitted: '2026-11-15'

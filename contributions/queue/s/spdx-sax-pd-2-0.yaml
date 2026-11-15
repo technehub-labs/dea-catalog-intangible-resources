@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX SAX-PD-2.0
 name: Sax Public Domain Notice 2.0 (SAX-PD-2.0)
-description: 'Sax Public Domain Notice 2.0 — an open-source/copyright license registered in the SPDX License
-  List (license id SAX-PD-2.0). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'Sax Public Domain Notice 2.0 — an open-source/copyright license registered
+  in the SPDX License List (license id SAX-PD-2.0). A published intangible asset:
+  the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/SAX-PD-2.0.html (SPDX License List; id SAX-PD-2.0; name Sax Public
-      Domain Notice 2.0)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/SAX-PD-2.0.html (SPDX License List; id SAX-PD-2.0;
+      name Sax Public Domain Notice 2.0)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-sax-pd-2-0
+assigned_id: dea:intangible-resource-spdx-sax-pd-2-0-6evhm5
+admitted: '2026-11-15'

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX xzoom
 name: xzoom License (xzoom)
-description: 'xzoom License — an open-source/copyright license registered in the SPDX License List (license
-  id xzoom). A published intangible asset: the license text and metadata are maintained at the cited SPDX
-  page.'
+description: 'xzoom License — an open-source/copyright license registered in the SPDX
+  License List (license id xzoom). A published intangible asset: the license text
+  and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/xzoom.html (SPDX License List; id xzoom; name xzoom License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/xzoom.html (SPDX License List; id xzoom;
+      name xzoom License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-xzoom
+assigned_id: dea:intangible-resource-spdx-xzoom-5hpwcr
+admitted: '2026-11-15'

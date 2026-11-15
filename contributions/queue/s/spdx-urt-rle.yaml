@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX URT-RLE
 name: Utah Raster Toolkit Run Length Encoded License (URT-RLE)
-description: 'Utah Raster Toolkit Run Length Encoded License — an open-source/copyright license registered
-  in the SPDX License List (license id URT-RLE). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'Utah Raster Toolkit Run Length Encoded License — an open-source/copyright
+  license registered in the SPDX License List (license id URT-RLE). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/URT-RLE.html (SPDX License List; id URT-RLE; name Utah Raster
-      Toolkit Run Length Encoded License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/URT-RLE.html (SPDX License List; id URT-RLE;
+      name Utah Raster Toolkit Run Length Encoded License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-urt-rle
+assigned_id: dea:intangible-resource-spdx-urt-rle-vfgs6p
+admitted: '2026-11-15'
