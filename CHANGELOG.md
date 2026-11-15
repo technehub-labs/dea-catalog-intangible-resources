@@ -5,6 +5,10 @@ All notable changes to this catalog are documented here. Format follows
 
 ## [Unreleased]
 
+### CR-INR-CAT-05: Canonical Admission Wave
+
+740 IntangibleResource records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 740, candidates 0. All gates green.
+
 ### CR-INR-CAT-04: IntangibleResource Candidate Admission Batch 05
 
 Admitted 740 new `IntangibleResource` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +740, canonical unchanged; queue entries flipped to `admitted`.
