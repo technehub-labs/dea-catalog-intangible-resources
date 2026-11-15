@@ -1,22 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX AFL-2.1
 name: Academic Free License v2.1 (AFL-2.1)
-description: 'Academic Free License v2.1 — an open-source/copyright license registered in the SPDX License
-  List (license id AFL-2.1; OSI-approved). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'Academic Free License v2.1 — an open-source/copyright license registered
+  in the SPDX License List (license id AFL-2.1; OSI-approved). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/AFL-2.1.html (SPDX License List; id AFL-2.1; name Academic Free
-      License v2.1)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/AFL-2.1.html (SPDX License List; id AFL-2.1;
+      name Academic Free License v2.1)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-afl-2-1
+assigned_id: dea:intangible-resource-spdx-afl-2-1-y8de3u
+admitted: '2026-11-15'

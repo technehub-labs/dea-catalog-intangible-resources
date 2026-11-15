@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX Intel-ACPI
 name: Intel ACPI Software License Agreement (Intel-ACPI)
-description: 'Intel ACPI Software License Agreement — an open-source/copyright license registered in the
-  SPDX License List (license id Intel-ACPI). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'Intel ACPI Software License Agreement — an open-source/copyright license
+  registered in the SPDX License List (license id Intel-ACPI). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/Intel-ACPI.html (SPDX License List; id Intel-ACPI; name Intel
-      ACPI Software License Agreement)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/Intel-ACPI.html (SPDX License List; id Intel-ACPI;
+      name Intel ACPI Software License Agreement)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-intel-acpi
+assigned_id: dea:intangible-resource-spdx-intel-acpi-jcts3y
+admitted: '2026-11-15'

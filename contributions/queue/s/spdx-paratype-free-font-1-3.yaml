@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX ParaType-Free-Font-1.3
 name: ParaType Free Font Licensing Agreement v1.3 (ParaType-Free-Font-1.3)
-description: 'ParaType Free Font Licensing Agreement v1.3 — an open-source/copyright license registered
-  in the SPDX License List (license id ParaType-Free-Font-1.3). A published intangible asset: the license
-  text and metadata are maintained at the cited SPDX page.'
+description: 'ParaType Free Font Licensing Agreement v1.3 — an open-source/copyright
+  license registered in the SPDX License List (license id ParaType-Free-Font-1.3).
+  A published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/ParaType-Free-Font-1.3.html (SPDX License List; id ParaType-Free-Font-1.3;
-      name ParaType Free Font Licensing Agreement v1.3)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/ParaType-Free-Font-1.3.html (SPDX License
+      List; id ParaType-Free-Font-1.3; name ParaType Free Font Licensing Agreement
+      v1.3)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-paratype-free-font-1-3
+assigned_id: dea:intangible-resource-spdx-paratype-free-font-1-3-gkg5q7
+admitted: '2026-11-15'

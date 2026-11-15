@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX FSL-1.1-MIT
 name: Functional Source License, Version 1.1, MIT Future License (FSL-1.1-MIT)
-description: 'Functional Source License, Version 1.1, MIT Future License — an open-source/copyright license
-  registered in the SPDX License List (license id FSL-1.1-MIT). A published intangible asset: the license
-  text and metadata are maintained at the cited SPDX page.'
+description: 'Functional Source License, Version 1.1, MIT Future License — an open-source/copyright
+  license registered in the SPDX License List (license id FSL-1.1-MIT). A published
+  intangible asset: the license text and metadata are maintained at the cited SPDX
+  page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/FSL-1.1-MIT.html (SPDX License List; id FSL-1.1-MIT; name Functional
-      Source License, Version 1.1, MIT Future License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/FSL-1.1-MIT.html (SPDX License List; id FSL-1.1-MIT;
+      name Functional Source License, Version 1.1, MIT Future License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-fsl-1-1-mit
+assigned_id: dea:intangible-resource-spdx-fsl-1-1-mit-j8x2mk
+admitted: '2026-11-15'

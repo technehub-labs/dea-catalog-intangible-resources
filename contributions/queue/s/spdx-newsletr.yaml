@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX Newsletr
 name: Newsletr License (Newsletr)
-description: 'Newsletr License — an open-source/copyright license registered in the SPDX License List
-  (license id Newsletr). A published intangible asset: the license text and metadata are maintained at
-  the cited SPDX page.'
+description: 'Newsletr License — an open-source/copyright license registered in the
+  SPDX License List (license id Newsletr). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/Newsletr.html (SPDX License List; id Newsletr; name Newsletr
-      License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/Newsletr.html (SPDX License List; id Newsletr;
+      name Newsletr License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-newsletr
+assigned_id: dea:intangible-resource-spdx-newsletr-uubptp
+admitted: '2026-11-15'

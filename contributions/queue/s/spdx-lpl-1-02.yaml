@@ -1,22 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX LPL-1.02
 name: Lucent Public License v1.02 (LPL-1.02)
-description: 'Lucent Public License v1.02 — an open-source/copyright license registered in the SPDX License
-  List (license id LPL-1.02; OSI-approved). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'Lucent Public License v1.02 — an open-source/copyright license registered
+  in the SPDX License List (license id LPL-1.02; OSI-approved). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/LPL-1.02.html (SPDX License List; id LPL-1.02; name Lucent Public
-      License v1.02)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/LPL-1.02.html (SPDX License List; id LPL-1.02;
+      name Lucent Public License v1.02)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-lpl-1-02
+assigned_id: dea:intangible-resource-spdx-lpl-1-02-vx3j97
+admitted: '2026-11-15'

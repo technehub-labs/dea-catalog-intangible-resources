@@ -1,0 +1,36 @@
+id: dea:intangible-resource-spdx-hpnd-export-us-modify-btqkuh
+type: IntangibleResource
+name: HPND with US Government export control warning and modification rqmt (HPND-export-US-modify)
+description: 'HPND with US Government export control warning and modification rqmt
+  — an open-source/copyright license registered in the SPDX License List (license
+  id HPND-export-US-modify). A published intangible asset: the license text and metadata
+  are maintained at the cited SPDX page.'
+version: 0.1.0
+lifecycle_status: proposed
+protection_type: license
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://spdx.org/licenses/HPND-export-US-modify.html (SPDX License
+      List; id HPND-export-US-modify; name HPND with US Government export control
+      warning and modification rqmt)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- spdx
+- license

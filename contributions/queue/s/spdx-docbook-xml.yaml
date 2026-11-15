@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX DocBook-XML
 name: DocBook XML License (DocBook-XML)
-description: 'DocBook XML License — an open-source/copyright license registered in the SPDX License List
-  (license id DocBook-XML). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'DocBook XML License — an open-source/copyright license registered in
+  the SPDX License List (license id DocBook-XML). A published intangible asset: the
+  license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/DocBook-XML.html (SPDX License List; id DocBook-XML; name DocBook
-      XML License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/DocBook-XML.html (SPDX License List; id DocBook-XML;
+      name DocBook XML License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-docbook-xml
+assigned_id: dea:intangible-resource-spdx-docbook-xml-5adeuq
+admitted: '2026-11-15'

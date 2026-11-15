@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX AMPAS
 name: Academy of Motion Picture Arts and Sciences BSD (AMPAS)
-description: 'Academy of Motion Picture Arts and Sciences BSD — an open-source/copyright license registered
-  in the SPDX License List (license id AMPAS). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'Academy of Motion Picture Arts and Sciences BSD — an open-source/copyright
+  license registered in the SPDX License List (license id AMPAS). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/AMPAS.html (SPDX License List; id AMPAS; name Academy of Motion
-      Picture Arts and Sciences BSD)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/AMPAS.html (SPDX License List; id AMPAS;
+      name Academy of Motion Picture Arts and Sciences BSD)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-ampas
+assigned_id: dea:intangible-resource-spdx-ampas-qfj2r4
+admitted: '2026-11-15'

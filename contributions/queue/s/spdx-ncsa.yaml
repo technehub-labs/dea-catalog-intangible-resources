@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX NCSA
 name: University of Illinois/NCSA Open Source License (NCSA)
-description: 'University of Illinois/NCSA Open Source License — an open-source/copyright license registered
-  in the SPDX License List (license id NCSA; OSI-approved). A published intangible asset: the license
-  text and metadata are maintained at the cited SPDX page.'
+description: 'University of Illinois/NCSA Open Source License — an open-source/copyright
+  license registered in the SPDX License List (license id NCSA; OSI-approved). A published
+  intangible asset: the license text and metadata are maintained at the cited SPDX
+  page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/NCSA.html (SPDX License List; id NCSA; name University of Illinois/NCSA
-      Open Source License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/NCSA.html (SPDX License List; id NCSA; name
+      University of Illinois/NCSA Open Source License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-ncsa
+assigned_id: dea:intangible-resource-spdx-ncsa-7w6eth
+admitted: '2026-11-15'

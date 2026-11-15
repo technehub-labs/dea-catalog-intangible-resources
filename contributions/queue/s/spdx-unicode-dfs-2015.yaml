@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX Unicode-DFS-2015
 name: Unicode License Agreement - Data Files and Software (2015) (Unicode-DFS-2015)
-description: 'Unicode License Agreement - Data Files and Software (2015) — an open-source/copyright license
-  registered in the SPDX License List (license id Unicode-DFS-2015). A published intangible asset: the
-  license text and metadata are maintained at the cited SPDX page.'
+description: 'Unicode License Agreement - Data Files and Software (2015) — an open-source/copyright
+  license registered in the SPDX License List (license id Unicode-DFS-2015). A published
+  intangible asset: the license text and metadata are maintained at the cited SPDX
+  page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/Unicode-DFS-2015.html (SPDX License List; id Unicode-DFS-2015;
-      name Unicode License Agreement - Data Files and Software (2015))
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/Unicode-DFS-2015.html (SPDX License List;
+      id Unicode-DFS-2015; name Unicode License Agreement - Data Files and Software
+      (2015))
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-unicode-dfs-2015
+assigned_id: dea:intangible-resource-spdx-unicode-dfs-2015-ymvjyd
+admitted: '2026-11-15'

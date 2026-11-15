@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX X11-distribute-modifications-variant
 name: X11 License Distribution Modification Variant (X11-distribute-modifications-variant)
-description: 'X11 License Distribution Modification Variant — an open-source/copyright license registered
-  in the SPDX License List (license id X11-distribute-modifications-variant). A published intangible asset:
-  the license text and metadata are maintained at the cited SPDX page.'
+description: 'X11 License Distribution Modification Variant — an open-source/copyright
+  license registered in the SPDX License List (license id X11-distribute-modifications-variant).
+  A published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/X11-distribute-modifications-variant.html (SPDX License List;
-      id X11-distribute-modifications-variant; name X11 License Distribution Modification Variant)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/X11-distribute-modifications-variant.html
+      (SPDX License List; id X11-distribute-modifications-variant; name X11 License
+      Distribution Modification Variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-x11-distribute-modifications-variant
+assigned_id: dea:intangible-resource-spdx-x11-distribute-modifications-variant-kwk7vq
+admitted: '2026-11-15'

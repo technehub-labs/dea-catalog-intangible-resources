@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX FreeImage
 name: FreeImage Public License v1.0 (FreeImage)
-description: 'FreeImage Public License v1.0 — an open-source/copyright license registered in the SPDX
-  License List (license id FreeImage). A published intangible asset: the license text and metadata are
-  maintained at the cited SPDX page.'
+description: 'FreeImage Public License v1.0 — an open-source/copyright license registered
+  in the SPDX License List (license id FreeImage). A published intangible asset: the
+  license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/FreeImage.html (SPDX License List; id FreeImage; name FreeImage
-      Public License v1.0)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/FreeImage.html (SPDX License List; id FreeImage;
+      name FreeImage Public License v1.0)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-freeimage
+assigned_id: dea:intangible-resource-spdx-freeimage-tzswce
+admitted: '2026-11-15'

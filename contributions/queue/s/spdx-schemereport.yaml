@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX SchemeReport
 name: Scheme Language Report License (SchemeReport)
-description: 'Scheme Language Report License — an open-source/copyright license registered in the SPDX
-  License List (license id SchemeReport). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'Scheme Language Report License — an open-source/copyright license registered
+  in the SPDX License List (license id SchemeReport). A published intangible asset:
+  the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/SchemeReport.html (SPDX License List; id SchemeReport; name Scheme
-      Language Report License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/SchemeReport.html (SPDX License List; id
+      SchemeReport; name Scheme Language Report License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-schemereport
+assigned_id: dea:intangible-resource-spdx-schemereport-7ej6hc
+admitted: '2026-11-15'

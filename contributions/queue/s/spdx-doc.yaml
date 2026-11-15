@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX DOC
 name: DOC License (DOC)
-description: 'DOC License — an open-source/copyright license registered in the SPDX License List (license
-  id DOC). A published intangible asset: the license text and metadata are maintained at the cited SPDX
-  page.'
+description: 'DOC License — an open-source/copyright license registered in the SPDX
+  License List (license id DOC). A published intangible asset: the license text and
+  metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/DOC.html (SPDX License List; id DOC; name DOC License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/DOC.html (SPDX License List; id DOC; name
+      DOC License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-doc
+assigned_id: dea:intangible-resource-spdx-doc-ag4b2u
+admitted: '2026-11-15'

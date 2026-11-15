@@ -1,22 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX NASA-1.3
 name: NASA Open Source Agreement 1.3 (NASA-1.3)
-description: 'NASA Open Source Agreement 1.3 — an open-source/copyright license registered in the SPDX
-  License List (license id NASA-1.3; OSI-approved). A published intangible asset: the license text and
-  metadata are maintained at the cited SPDX page.'
+description: 'NASA Open Source Agreement 1.3 — an open-source/copyright license registered
+  in the SPDX License List (license id NASA-1.3; OSI-approved). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/NASA-1.3.html (SPDX License List; id NASA-1.3; name NASA Open
-      Source Agreement 1.3)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/NASA-1.3.html (SPDX License List; id NASA-1.3;
+      name NASA Open Source Agreement 1.3)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-nasa-1-3
+assigned_id: dea:intangible-resource-spdx-nasa-1-3-bd8jnp
+admitted: '2026-11-15'

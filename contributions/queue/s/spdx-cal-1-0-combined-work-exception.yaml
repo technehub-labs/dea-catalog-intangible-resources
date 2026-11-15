@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX CAL-1.0-Combined-Work-Exception
 name: Cryptographic Autonomy License 1.0 (Combined Work Exception) (CAL-1.0-Combined-Work-Exception)
 description: 'Cryptographic Autonomy License 1.0 (Combined Work Exception) — an open-source/copyright
-  license registered in the SPDX License List (license id CAL-1.0-Combined-Work-Exception; OSI-approved).
-  A published intangible asset: the license text and metadata are maintained at the cited SPDX page.'
+  license registered in the SPDX License List (license id CAL-1.0-Combined-Work-Exception;
+  OSI-approved). A published intangible asset: the license text and metadata are maintained
+  at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/CAL-1.0-Combined-Work-Exception.html (SPDX License List; id CAL-1.0-Combined-Work-Exception;
-      name Cryptographic Autonomy License 1.0 (Combined Work Exception))
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/CAL-1.0-Combined-Work-Exception.html (SPDX
+      License List; id CAL-1.0-Combined-Work-Exception; name Cryptographic Autonomy
+      License 1.0 (Combined Work Exception))
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-cal-1-0-combined-work-exception
+assigned_id: dea:intangible-resource-spdx-cal-1-0-combined-work-exception-nm87vh
+admitted: '2026-11-15'

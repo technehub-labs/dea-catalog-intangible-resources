@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX FSFUL
 name: FSF Unlimited License (FSFUL)
-description: 'FSF Unlimited License — an open-source/copyright license registered in the SPDX License
-  List (license id FSFUL). A published intangible asset: the license text and metadata are maintained
-  at the cited SPDX page.'
+description: 'FSF Unlimited License — an open-source/copyright license registered
+  in the SPDX License List (license id FSFUL). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/FSFUL.html (SPDX License List; id FSFUL; name FSF Unlimited License)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/FSFUL.html (SPDX License List; id FSFUL;
+      name FSF Unlimited License)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-fsful
+assigned_id: dea:intangible-resource-spdx-fsful-wv6ep6
+admitted: '2026-11-15'

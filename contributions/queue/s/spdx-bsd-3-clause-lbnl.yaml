@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX BSD-3-Clause-LBNL
 name: Lawrence Berkeley National Labs BSD variant license (BSD-3-Clause-LBNL)
-description: 'Lawrence Berkeley National Labs BSD variant license — an open-source/copyright license registered
-  in the SPDX License List (license id BSD-3-Clause-LBNL; OSI-approved). A published intangible asset:
-  the license text and metadata are maintained at the cited SPDX page.'
+description: 'Lawrence Berkeley National Labs BSD variant license — an open-source/copyright
+  license registered in the SPDX License List (license id BSD-3-Clause-LBNL; OSI-approved).
+  A published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/BSD-3-Clause-LBNL.html (SPDX License List; id BSD-3-Clause-LBNL;
-      name Lawrence Berkeley National Labs BSD variant license)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/BSD-3-Clause-LBNL.html (SPDX License List;
+      id BSD-3-Clause-LBNL; name Lawrence Berkeley National Labs BSD variant license)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 - osi-approved
 slug: spdx-bsd-3-clause-lbnl
+assigned_id: dea:intangible-resource-spdx-bsd-3-clause-lbnl-jnmzbt
+admitted: '2026-11-15'

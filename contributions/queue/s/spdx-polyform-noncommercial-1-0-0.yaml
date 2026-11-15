@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX PolyForm-Noncommercial-1.0.0
 name: PolyForm Noncommercial License 1.0.0 (PolyForm-Noncommercial-1.0.0)
-description: 'PolyForm Noncommercial License 1.0.0 — an open-source/copyright license registered in the
-  SPDX License List (license id PolyForm-Noncommercial-1.0.0). A published intangible asset: the license
-  text and metadata are maintained at the cited SPDX page.'
+description: 'PolyForm Noncommercial License 1.0.0 — an open-source/copyright license
+  registered in the SPDX License List (license id PolyForm-Noncommercial-1.0.0). A
+  published intangible asset: the license text and metadata are maintained at the
+  cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/PolyForm-Noncommercial-1.0.0.html (SPDX License List; id PolyForm-Noncommercial-1.0.0;
-      name PolyForm Noncommercial License 1.0.0)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/PolyForm-Noncommercial-1.0.0.html (SPDX License
+      List; id PolyForm-Noncommercial-1.0.0; name PolyForm Noncommercial License 1.0.0)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-polyform-noncommercial-1-0-0
+assigned_id: dea:intangible-resource-spdx-polyform-noncommercial-1-0-0-93gjhy
+admitted: '2026-11-15'

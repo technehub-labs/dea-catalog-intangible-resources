@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX LPPL-1.3a
 name: LaTeX Project Public License v1.3a (LPPL-1.3a)
-description: 'LaTeX Project Public License v1.3a — an open-source/copyright license registered in the
-  SPDX License List (license id LPPL-1.3a). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'LaTeX Project Public License v1.3a — an open-source/copyright license
+  registered in the SPDX License List (license id LPPL-1.3a). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/LPPL-1.3a.html (SPDX License List; id LPPL-1.3a; name LaTeX Project
-      Public License v1.3a)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/LPPL-1.3a.html (SPDX License List; id LPPL-1.3a;
+      name LaTeX Project Public License v1.3a)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-lppl-1-3a
+assigned_id: dea:intangible-resource-spdx-lppl-1-3a-5wmghs
+admitted: '2026-11-15'

@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX BSD-3-Clause-Modification
 name: BSD 3-Clause Modification (BSD-3-Clause-Modification)
-description: 'BSD 3-Clause Modification — an open-source/copyright license registered in the SPDX License
-  List (license id BSD-3-Clause-Modification). A published intangible asset: the license text and metadata
-  are maintained at the cited SPDX page.'
+description: 'BSD 3-Clause Modification — an open-source/copyright license registered
+  in the SPDX License List (license id BSD-3-Clause-Modification). A published intangible
+  asset: the license text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/BSD-3-Clause-Modification.html (SPDX License List; id BSD-3-Clause-Modification;
-      name BSD 3-Clause Modification)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/BSD-3-Clause-Modification.html (SPDX License
+      List; id BSD-3-Clause-Modification; name BSD 3-Clause Modification)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-bsd-3-clause-modification
+assigned_id: dea:intangible-resource-spdx-bsd-3-clause-modification-fh6qjw
+admitted: '2026-11-15'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX CMU-Mach-nodoc
 name: CMU    Mach - no notices-in-documentation variant (CMU-Mach-nodoc)
-description: 'CMU    Mach - no notices-in-documentation variant — an open-source/copyright license registered
-  in the SPDX License List (license id CMU-Mach-nodoc). A published intangible asset: the license text
-  and metadata are maintained at the cited SPDX page.'
+description: 'CMU    Mach - no notices-in-documentation variant — an open-source/copyright
+  license registered in the SPDX License List (license id CMU-Mach-nodoc). A published
+  intangible asset: the license text and metadata are maintained at the cited SPDX
+  page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/CMU-Mach-nodoc.html (SPDX License List; id CMU-Mach-nodoc; name
-      CMU    Mach - no notices-in-documentation variant)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/CMU-Mach-nodoc.html (SPDX License List; id
+      CMU-Mach-nodoc; name CMU    Mach - no notices-in-documentation variant)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-cmu-mach-nodoc
+assigned_id: dea:intangible-resource-spdx-cmu-mach-nodoc-enqwe4
+admitted: '2026-11-15'

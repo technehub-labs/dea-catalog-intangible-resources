@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-16'
 source_bank: spdx-osi-licenses.json
 source_ref: SPDX NTP-0
 name: NTP No Attribution (NTP-0)
-description: 'NTP No Attribution — an open-source/copyright license registered in the SPDX License List
-  (license id NTP-0). A published intangible asset: the license text and metadata are maintained at the
-  cited SPDX page.'
+description: 'NTP No Attribution — an open-source/copyright license registered in
+  the SPDX License List (license id NTP-0). A published intangible asset: the license
+  text and metadata are maintained at the cited SPDX page.'
 protection_type: license
 evidence:
   sources:
   - kind: published-document
-    reference: https://spdx.org/licenses/NTP-0.html (SPDX License List; id NTP-0; name NTP No Attribution)
-  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto standard license registry).
-    protection_type=license matches the entity enum directly.
+    reference: https://spdx.org/licenses/NTP-0.html (SPDX License List; id NTP-0;
+      name NTP No Attribution)
+  rationale: Cited from the SPDX License List (license-list-data JSON, the de facto
+    standard license registry). protection_type=license matches the entity enum directly.
 tags:
 - spdx
 - license
 slug: spdx-ntp-0
+assigned_id: dea:intangible-resource-spdx-ntp-0-aem2tn
+admitted: '2026-11-15'
